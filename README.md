@@ -2,10 +2,14 @@
 
 This is the boilerplate for all my personal projects on GitHub. (This is the brief description for this repository)
 
+<br>
+
 ## Summary
  - This is the template boilerplate repository for all personal projects that I have on my GitHub. 
  - This template will expedite the creation and maintenance of all my various projects' repositories.
  - And more importantly, the standardized format will allow for auto parsing of the repository by a python script to automatically update my personal portfolio website.  
+
+<br>
 
 ## Image Gallery
 
