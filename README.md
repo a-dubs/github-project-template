@@ -1,6 +1,6 @@
 # github-project-template  
 
-This is the brief description for this repository. This is the boilerplate for all my personal projects on GitHub. 
+This is the boilerplate for all my personal projects on GitHub. (This is the brief description for this repository)
 
 ## Summary
  - This is the template boilerplate repository for all personal projects that I have on my GitHub. 
