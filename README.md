@@ -13,8 +13,15 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 
 ## Image Gallery
 
-<!-- ![Image Alt Text](/image_gallery/image_name.extension) -->
+### Placeholder Image (This is the image's caption/label)
+![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please%20replace%20me%20I%20am%20begging%20you.jpg)
+<br>
 
+<!-- 
+### (This is the image's caption/label)
+![(This is the image's alt text)](full_http_path_to_image)
+<br> 
+-->
 
 <br>
 
