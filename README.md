@@ -1,4 +1,4 @@
-# github-project-template  
+# Boilerplate for Projects on GitHub
 
 This is the boilerplate for all my personal projects on GitHub. (This is the brief description for this repository)
 
