@@ -14,7 +14,7 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 ## Image Gallery
 
 ### Placeholder Image (This is the image's caption/label)
-![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please%20replace%20me%20I%20am%20begging%20you.jpg)
+![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please_replace_me_I_am_begging_you.jpg)
 <br>
 
 <!-- 
