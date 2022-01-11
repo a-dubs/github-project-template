@@ -20,7 +20,7 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 ## Project Metadata
 
 **Project Status** : (Active, Inactive, Archived)  
-**Project Progress** : (Concept, In Progress, Functional, Completed)
+**Project Progress** : (Concept, In Progress, Functional, Complete)
 
 **Project dates** : Jan '22 - Present  
 
