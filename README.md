@@ -13,14 +13,13 @@ This is the boilerplate for all my personal projects on GitHub. (This is the bri
 
 ## Image Gallery
 
-### Placeholder Image (This is the image's caption/label)
-![Please end my suffering... (This is the image's alt text)](https://github.com/a-dubs/github-project-template/blob/master/image_gallery/Please_replace_me_I_am_begging_you.jpg)
+### Placeholder Image (This is the image's caption/label)  
+![Please end my suffering... (This is the image's alt text)](/image_gallery/Please_replace_me_I_am_begging_you.jpg)
 <br>
 
-## Project Metadata
+## Project Metadata  
 
 **Project Status** : (Active, Inactive, Archived)  
-**Project Progress** : (Concept, In Progress, Functional, Complete)
-
-**Project dates** : Jan '22 - Present  
+**Project Progress** : (Concept, In Progress, Functional, Complete)  
+**Project dates** : Jan '00 - Present  
 
